@@ -1,0 +1,15 @@
+G:\!C#UNIREPOS\Lab1\Practiacal1\Task3\bin\Debug\net8.0\Task3.exe
+G:\!C#UNIREPOS\Lab1\Practiacal1\Task3\bin\Debug\net8.0\Task3.deps.json
+G:\!C#UNIREPOS\Lab1\Practiacal1\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+G:\!C#UNIREPOS\Lab1\Practiacal1\Task3\bin\Debug\net8.0\Task3.dll
+G:\!C#UNIREPOS\Lab1\Practiacal1\Task3\bin\Debug\net8.0\Task3.pdb
+G:\!C#UNIREPOS\Lab1\Practiacal1\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+G:\!C#UNIREPOS\Lab1\Practiacal1\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+G:\!C#UNIREPOS\Lab1\Practiacal1\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+G:\!C#UNIREPOS\Lab1\Practiacal1\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+G:\!C#UNIREPOS\Lab1\Practiacal1\Task3\obj\Debug\net8.0\Task3.sourcelink.json
+G:\!C#UNIREPOS\Lab1\Practiacal1\Task3\obj\Debug\net8.0\Task3.dll
+G:\!C#UNIREPOS\Lab1\Practiacal1\Task3\obj\Debug\net8.0\refint\Task3.dll
+G:\!C#UNIREPOS\Lab1\Practiacal1\Task3\obj\Debug\net8.0\Task3.pdb
+G:\!C#UNIREPOS\Lab1\Practiacal1\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+G:\!C#UNIREPOS\Lab1\Practiacal1\Task3\obj\Debug\net8.0\ref\Task3.dll
