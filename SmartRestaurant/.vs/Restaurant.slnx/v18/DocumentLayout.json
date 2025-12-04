@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\!LABC#\\LAB5\\SmartRestaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7AEF7D-89F8-4559-A281-E5E2F3E2B173}|SmartRestaurant\\SmartRestaurant.csproj|d:\\!labc#\\lab5\\smartrestaurant\\smartrestaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7AEF7D-89F8-4559-A281-E5E2F3E2B173}|SmartRestaurant\\SmartRestaurant.csproj|solutionrelative:smartrestaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7AEF7D-89F8-4559-A281-E5E2F3E2B173}|SmartRestaurant\\Restaurant.csproj|d:\\!labc#\\lab5\\smartrestaurant\\smartrestaurant\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7AEF7D-89F8-4559-A281-E5E2F3E2B173}|SmartRestaurant\\Restaurant.csproj|solutionrelative:smartrestaurant\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7AEF7D-89F8-4559-A281-E5E2F3E2B173}|SmartRestaurant\\Restaurant.csproj|d:\\!labc#\\lab5\\smartrestaurant\\smartrestaurant\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7AEF7D-89F8-4559-A281-E5E2F3E2B173}|SmartRestaurant\\Restaurant.csproj|solutionrelative:smartrestaurant\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7AEF7D-89F8-4559-A281-E5E2F3E2B173}|SmartRestaurant\\Restaurant.csproj|d:\\!labc#\\lab5\\smartrestaurant\\smartrestaurant\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7AEF7D-89F8-4559-A281-E5E2F3E2B173}|SmartRestaurant\\Restaurant.csproj|solutionrelative:smartrestaurant\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7AEF7D-89F8-4559-A281-E5E2F3E2B173}|SmartRestaurant\\Restaurant.csproj|d:\\!labc#\\lab5\\smartrestaurant\\smartrestaurant\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7AEF7D-89F8-4559-A281-E5E2F3E2B173}|SmartRestaurant\\Restaurant.csproj|solutionrelative:smartrestaurant\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7AEF7D-89F8-4559-A281-E5E2F3E2B173}|SmartRestaurant\\Restaurant.csproj|d:\\!labc#\\lab5\\smartrestaurant\\smartrestaurant\\iorderable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7AEF7D-89F8-4559-A281-E5E2F3E2B173}|SmartRestaurant\\Restaurant.csproj|solutionrelative:smartrestaurant\\iorderable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7AEF7D-89F8-4559-A281-E5E2F3E2B173}|SmartRestaurant\\Restaurant.csproj|d:\\!labc#\\lab5\\smartrestaurant\\smartrestaurant\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7AEF7D-89F8-4559-A281-E5E2F3E2B173}|SmartRestaurant\\Restaurant.csproj|solutionrelative:smartrestaurant\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7AEF7D-89F8-4559-A281-E5E2F3E2B173}|SmartRestaurant\\Restaurant.csproj|d:\\!labc#\\lab5\\smartrestaurant\\smartrestaurant\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7AEF7D-89F8-4559-A281-E5E2F3E2B173}|SmartRestaurant\\Restaurant.csproj|solutionrelative:smartrestaurant\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "D:\\!LABC#\\LAB5\\SmartRestaurant\\SmartRestaurant\\Restaurant.cs",
+              "RelativeDocumentMoniker": "SmartRestaurant\\Restaurant.cs",
+              "ToolTip": "D:\\!LABC#\\LAB5\\SmartRestaurant\\SmartRestaurant\\Restaurant.cs",
+              "RelativeToolTip": "SmartRestaurant\\Restaurant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:51:41.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\!LABC#\\LAB5\\SmartRestaurant\\SmartRestaurant\\Order.cs",
+              "RelativeDocumentMoniker": "SmartRestaurant\\Order.cs",
+              "ToolTip": "D:\\!LABC#\\LAB5\\SmartRestaurant\\SmartRestaurant\\Order.cs",
+              "RelativeToolTip": "SmartRestaurant\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:50:39.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Drink.cs",
+              "DocumentMoniker": "D:\\!LABC#\\LAB5\\SmartRestaurant\\SmartRestaurant\\Drink.cs",
+              "RelativeDocumentMoniker": "SmartRestaurant\\Drink.cs",
+              "ToolTip": "D:\\!LABC#\\LAB5\\SmartRestaurant\\SmartRestaurant\\Drink.cs",
+              "RelativeToolTip": "SmartRestaurant\\Drink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:49:35.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "D:\\!LABC#\\LAB5\\SmartRestaurant\\SmartRestaurant\\Dish.cs",
+              "RelativeDocumentMoniker": "SmartRestaurant\\Dish.cs",
+              "ToolTip": "D:\\!LABC#\\LAB5\\SmartRestaurant\\SmartRestaurant\\Dish.cs",
+              "RelativeToolTip": "SmartRestaurant\\Dish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:46:43.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "D:\\!LABC#\\LAB5\\SmartRestaurant\\SmartRestaurant\\MenuItem.cs",
+              "RelativeDocumentMoniker": "SmartRestaurant\\MenuItem.cs",
+              "ToolTip": "D:\\!LABC#\\LAB5\\SmartRestaurant\\SmartRestaurant\\MenuItem.cs",
+              "RelativeToolTip": "SmartRestaurant\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:43:55.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "D:\\!LABC#\\LAB5\\SmartRestaurant\\SmartRestaurant\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "SmartRestaurant\\OrderStatus.cs",
+              "ToolTip": "D:\\!LABC#\\LAB5\\SmartRestaurant\\SmartRestaurant\\OrderStatus.cs",
+              "RelativeToolTip": "SmartRestaurant\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:35:30.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderable.cs",
+              "DocumentMoniker": "D:\\!LABC#\\LAB5\\SmartRestaurant\\SmartRestaurant\\IOrderable.cs",
+              "RelativeDocumentMoniker": "SmartRestaurant\\IOrderable.cs",
+              "ToolTip": "D:\\!LABC#\\LAB5\\SmartRestaurant\\SmartRestaurant\\IOrderable.cs",
+              "RelativeToolTip": "SmartRestaurant\\IOrderable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:31:23.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\!LABC#\\LAB5\\SmartRestaurant\\SmartRestaurant\\Program.cs",
+              "RelativeDocumentMoniker": "SmartRestaurant\\Program.cs",
+              "ToolTip": "D:\\!LABC#\\LAB5\\SmartRestaurant\\SmartRestaurant\\Program.cs",
+              "RelativeToolTip": "SmartRestaurant\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:27:28.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
