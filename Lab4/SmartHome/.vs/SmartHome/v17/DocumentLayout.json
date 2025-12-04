@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\!!C#UNIREPOS\\LAB\\Lab4\\SmartHome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7578C73F-3B7A-4654-B248-0B4B27BBA37C}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|g:\\!!c#unirepos\\lab\\lab4\\smarthome\\smarthomesystem.tests\\smarthomecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7578C73F-3B7A-4654-B248-0B4B27BBA37C}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|solutionrelative:smarthomesystem.tests\\smarthomecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFB7925-CB5D-4D3B-B61E-05643AA34969}|SmartHomeSystem\\SmartHomeSystem.csproj|g:\\!!c#unirepos\\lab\\lab4\\smarthome\\smarthomesystem\\smarthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFB7925-CB5D-4D3B-B61E-05643AA34969}|SmartHomeSystem\\SmartHomeSystem.csproj|solutionrelative:smarthomesystem\\smarthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7578C73F-3B7A-4654-B248-0B4B27BBA37C}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|g:\\!!c#unirepos\\lab\\lab4\\smarthome\\smarthomesystem.tests\\smarthomesystem.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7578C73F-3B7A-4654-B248-0B4B27BBA37C}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|solutionrelative:smarthomesystem.tests\\smarthomesystem.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmartHomeControllerTests.cs",
+              "DocumentMoniker": "G:\\!!C#UNIREPOS\\LAB\\Lab4\\SmartHome\\SmartHomeSystem.Tests\\SmartHomeControllerTests.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem.Tests\\SmartHomeControllerTests.cs",
+              "ToolTip": "G:\\!!C#UNIREPOS\\LAB\\Lab4\\SmartHome\\SmartHomeSystem.Tests\\SmartHomeControllerTests.cs",
+              "RelativeToolTip": "SmartHomeSystem.Tests\\SmartHomeControllerTests.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:44:29.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmartHomeController.cs",
+              "DocumentMoniker": "G:\\!!C#UNIREPOS\\LAB\\Lab4\\SmartHome\\SmartHomeSystem\\SmartHomeController.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem\\SmartHomeController.cs",
+              "ToolTip": "G:\\!!C#UNIREPOS\\LAB\\Lab4\\SmartHome\\SmartHomeSystem\\SmartHomeController.cs",
+              "RelativeToolTip": "SmartHomeSystem\\SmartHomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:44:17.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmartHomeSystem.Tests",
+              "DocumentMoniker": "G:\\!!C#UNIREPOS\\LAB\\Lab4\\SmartHome\\SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj",
+              "RelativeDocumentMoniker": "SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj",
+              "ToolTip": "G:\\!!C#UNIREPOS\\LAB\\Lab4\\SmartHome\\SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj",
+              "RelativeToolTip": "SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-04T05:38:12.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
